@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Download image</string>
+    <string name="add_url_img">Wstaw adres URL obrazu</string>
+    <string name="download">Download</string>
+    <string name="image">image</string>
+</resources>
